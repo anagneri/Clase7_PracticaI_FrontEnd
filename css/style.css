@@ -1,0 +1,20 @@
+/*Estilo del header*/
+header{background-color: #E6E6E6;
+        text-align: center;
+}
+/*Estilo del main*/
+h1, h3 {background-color: #C4C4C4;
+    color: #005677;
+}
+span {font-weight: 700;    
+}
+.textoCursiva{font-style: italic;
+
+}
+/*Estilo del footer*/
+footer {background-color: #005677;
+        color: #FFFFFF;
+        text-align: center;
+
+
+}
